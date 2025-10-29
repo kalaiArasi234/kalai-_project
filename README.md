@@ -14,8 +14,8 @@ This project implements a computer vision model to detect and classify diabetic 
 ## 🏗️ Project Structure
 
 ```
-fazi_project/
-├── fazi_project.py          # Main training script
+kalai_project/
+├── kalai_project.py          # Main training script
 ├── evaluate_model.py        # Model evaluation with metrics
 ├── app.py                   # Streamlit web application
 ├── test_inference.py        # Single image inference testing
